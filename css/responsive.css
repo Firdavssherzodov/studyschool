@@ -102,6 +102,9 @@
 }
 
 @media (max-width: 420px) {
+  .document{
+    width: 100% !important;
+  }
 }
 
 @media (max-width: 376px) {
